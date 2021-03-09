@@ -4,7 +4,7 @@ const darkmenu = (prefix) => {
             COMANDOS:
 
 
-  *Comandos do Dark:*
+  *Comandos do Bredpit:*
 
 ➸ *${prefix}loli*
 ➸ *${prefix}hentai*
@@ -23,9 +23,9 @@ const darkmenu = (prefix) => {
 ➸ *${prefix}ayeko*
 
 ╔════════════════════
-  TRADUZIDO POR *DARK*
+  TRADUZIDO POR *CUSCUZ*
   DUVIDAS? 👇
-  WA.me/5517991134416
+  WA.me/5531983411240
 ╚════════════════════`
 }
 
