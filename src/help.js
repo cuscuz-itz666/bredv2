@@ -96,7 +96,7 @@ const help = (prefix) => {
        
                      ♔
 ╭──────────────╮
- *COMANDOS DO DARK*
+ *COMANDOS DO BREDPIT*
 ╰──────────────╯
   
 ➸ *${prefix}loli*
@@ -125,9 +125,9 @@ const help = (prefix) => {
 ➸ *${prefix}teste*
 
 ╔════════════════════
-  FEITO POR *DARK*
+  FEITO POR *CUSCUZ*
   DUVIDAS? 👇
-  WA.me/5517991134416
+  WA.me/5531983411248
 ╚════════════════════`
 }
 
